@@ -2,7 +2,7 @@
 
 This is a sample application to illustrate the following issue : 
 
-[https://github.com/playframework/playframework/issues/2262] (Database evolutions with special characters #2262)
+[Database evolutions with special characters #2262] (https://github.com/playframework/playframework/issues/2262)
 
 ### Steps
 
